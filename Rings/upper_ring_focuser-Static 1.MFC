@@ -1,0 +1,16 @@
+[StartTime]
+upper_ring_focuser-Static 1.MFC=2s
+[SolverState]
+upper_ring_focuser-Static 1.MFC=2
+[MainFrame]
+upper_ring_focuser-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+upper_ring_focuser-Static 1.MFC=No
+[SolverType]
+upper_ring_focuser-Static 1.MFC=Linear Analysis
+[StudyType]
+upper_ring_focuser-Static 1.MFC=0
+[StudyName]
+upper_ring_focuser-Static 1.MFC=Static 1
+[Solver]
+upper_ring_focuser-Static 1.MFC=Iterative
